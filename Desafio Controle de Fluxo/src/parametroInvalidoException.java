@@ -1,2 +1,2 @@
-public class parametroInvalidoException extends Throwable {
+public class parametroInvalidoException extends Exception {
 }
